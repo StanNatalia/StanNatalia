@@ -1,4 +1,4 @@
-Hi there👋, I'm Natalia
+<h1 align="center">Hi there👋, I'm Natalia</h1>
 
 I'm a passionate Frontend Developer who helps turn ideas into modern, responsive, and user-friendly web interfaces, focusing on simplicity, performance, and great user experience.
 
