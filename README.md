@@ -5,9 +5,11 @@ I'm a passionate Frontend Developer who helps turn ideas into modern, responsive
 
 
 <h2>🚀 About Me</h2>
-- 💻 I specialize in: HTML, CSS, JavaScript, React, and Tailwind CSS
-- 🌱 Currently learning: WordPress
-- 👨‍💻 I enjoy building: responsive websites, interactive user interfaces, frontend apps with modern frameworks
+<ul>
+  <li>- 💻 I specialize in: HTML, CSS, JavaScript, React, and Tailwind CSS</li>
+  <li>- 🌱 Currently learning: WordPress</li>
+  <li>- 👨‍💻 I enjoy building: responsive websites, interactive user interfaces, frontend apps with modern frameworks</li>
+</ul>
 
 
 <h2>🛠️ Technologies & Tools</h2>
